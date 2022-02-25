@@ -1,4 +1,4 @@
-# STUDENT DATA BASE MANAGEMENT SYSTEM | C++
+# STUDENT DATA BASE MANAGEMENT SYSTEM | C++ (OOP)
 ## This project is Student Data Base Management System, Here in this project I have implemented Major Object Oriented Programming (OOP) concepts
 
 
